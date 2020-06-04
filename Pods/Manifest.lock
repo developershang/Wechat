@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (5.1.0)
+  - SwiftLint (0.39.2)
+  - WeChatSocial (0.0.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftLint
+  - WeChatSocial (from `https://github.com/developershang/WechatSocial`, branch `master`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - SwiftLint
+
+EXTERNAL SOURCES:
+  WeChatSocial:
+    :branch: master
+    :git: https://github.com/developershang/WechatSocial
+
+CHECKOUT OPTIONS:
+  WeChatSocial:
+    :commit: 8c6189621ed3504267c048ae1de7078efa11a17a
+    :git: https://github.com/developershang/WechatSocial
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  SwiftLint: 22ccbbe3b8008684be5955693bab135e0ed6a447
+  WeChatSocial: 15cc6472db22e6b040ad0637c39eb4b4ac53ab9f
+
+PODFILE CHECKSUM: ce60c48a232af583cb34900e22cac5d330520950
+
+COCOAPODS: 1.9.1

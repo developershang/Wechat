@@ -1,0 +1,21 @@
+{
+  "name": "WeChatSocial",
+  "version": "0.0.4",
+  "summary": "WeChatSocial",
+  "description": "WeChatSocial Demo",
+  "homepage": "https://github.com/developershang/WechatSocial",
+  "license": "MIT",
+  "authors": {
+    "developershang": "916132048@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source": {
+    "git": "https://github.com/developershang/WechatSocial.git",
+    "tag": "0.0.4"
+  },
+  "source_files": "WeChatSocial/Classes/**/*.{h,m,swift}",
+  "swift_version": "5.0"
+}

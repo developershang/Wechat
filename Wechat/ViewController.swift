@@ -9,13 +9,17 @@
 import UIKit
 
 class ViewController: UIViewController {
+    let socila = ["name","age"]
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+
+        print( socila.index(after: 1))  
     }
 
-
+    
+    
 }
 
 // 添加了注释@lzyjs666

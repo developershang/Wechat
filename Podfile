@@ -7,7 +7,8 @@ platform :ios, '10.0'
 target 'Wechat' do
   use_frameworks!
 pod 'Alamofire'
-pod 'WeChatSocial'
+pod 'WeChatSocial', :git => 'https://github.com/developershang/WechatSocial', :branch => 'master'
+pod 'SwiftLint'
 # Pods for Wechat
 
 end

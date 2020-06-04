@@ -1,0 +1,6 @@
+framework module WeChatSocial {
+  umbrella header "WeChatSocial-umbrella.h"
+
+  export *
+  module * { export * }
+}
